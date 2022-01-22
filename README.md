@@ -23,7 +23,7 @@
 ***Commands***
 
 
-``1 - git clone https://github.com/Ha3MrX/DDos-Attack``
+``1 - https://github.com/D1MOD1919/1919-ddos-attack.git``
 
 ``2 - cd DDos-Attack``
 

@@ -5,4 +5,4 @@
 The Best Ddos Attack Tool Made BY 1919 Team
 
 
-Discord Server 1919 Team(https://discord.gg/jfPaXhUgCS)
+Discord Server 1919 Team  https://discord.gg/jfPaXhUgCS

